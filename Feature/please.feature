@@ -1,4 +1,5 @@
 Feature: creating profile Validation
+@batch_1 
 Scenario: Verify creating profile in prudential
 Given user is in the prudential profile creation page page
 When user enters firstname as "anbu"
